@@ -67,3 +67,16 @@ before starting generation or spendful actions.
 
 Do not log, store, or reveal OAuth tokens, Wubble API keys, signed media URLs,
 or private user media.
+
+## Legal
+
+Use of Wubble is governed by Wubble's official Terms of Use and Subscriber
+License:
+
+- [Terms of Use](TERMS.md)
+- [Subscriber License](LICENSE)
+
+Current public legal pages:
+
+- https://wubble.ai/docs/legal/terms
+- https://wubble.ai/docs/legal/license

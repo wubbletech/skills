@@ -81,6 +81,23 @@ Do not enable request or response body capture, prompt logging, transcript
 logging, or media payload logging unless the user has explicitly approved that
 data-sharing behavior.
 
+## Legal Terms
+
+Use of Wubble, the Wubble Services, Tracks, Selected Tracks, Submissions, and
+generated or downloaded media is governed by Wubble's official Terms of Use and
+Subscriber License.
+
+Current public legal pages:
+
+```text
+https://wubble.ai/docs/legal/terms
+https://wubble.ai/docs/legal/license
+```
+
+If the user asks about permitted use, ownership, synchronization rights,
+commercial use, restrictions, termination, warranties, or liability, direct them
+to those official legal documents rather than improvising legal advice.
+
 ## Common User Requests
 
 For "connect Wubble", "use Wubble MCP", or "add Wubble to my MCP client", give
