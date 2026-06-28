@@ -5,8 +5,8 @@ description: Use when a user wants to connect to or use Wubble's official remote
 
 # Wubble
 
-Use Wubble when the user wants to create, inspect, or manage audio workflows
-through Wubble's official remote MCP server.
+Use Wubble when the user wants to create and customise music and audio
+workflows through Wubble's official remote MCP server.
 
 Wubble supports workflows for music, instrumental tracks, lyrics,
 text-to-speech, speech-to-text, voice isolation, voice changing, dubbing,
@@ -116,7 +116,7 @@ prefer read-only Wubble MCP tools.
 Wubble is also published on ClawHub as:
 
 ```text
-wubble@1.0.1
+wubble@1.0.2
 ```
 
 The skills.sh repository for this skill is:

@@ -31,7 +31,7 @@ https://mcp.wubble.ai/mcp
 ClawHub package:
 
 ```text
-wubble@1.0.1
+wubble@1.0.2
 ```
 
 ## Install
