@@ -116,10 +116,10 @@ prefer read-only Wubble MCP tools.
 Wubble is also published on ClawHub as:
 
 ```text
-wubble@1.0.0
+wubble@1.0.1
 ```
 
-The skills.sh repository for this skill is expected at:
+The skills.sh repository for this skill is:
 
 ```text
 https://github.com/wubbletech/skills/tree/main/skills/wubble
